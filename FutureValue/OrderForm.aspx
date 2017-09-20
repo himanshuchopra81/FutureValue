@@ -4,20 +4,26 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Himanshu Chopra (C0691062)</title>
     <style type="text/css">
         .style1 {
             height: 215px;
             width: 330px;
+        }
+        .img{
+            max-width:100%;
+            height:auto;
+            width:auto;
         }
     </style>
 </head>
 <body>
     <form name="orders" id="form1" runat="server">
     <div>
-        <img alt="Murach" class="style1" src="Images/murachlogo.jpg" /><br/>
-
+        <img alt="Murach" class="img" src="Images/murachlogo.jpg" /><br/>
+        <h1>Himanshu Chopra (C0691062)</h1>
         <h1>401K Future Value Calculator</h1>
+
         <table class="style2">
             <tr>
                 <td class ="style3">Monthly investment</td>
